@@ -1,10 +1,6 @@
     =/\                 /\=
-    / \'._   (\_/)   _.'/ \
-   / .''._'--(o.o)--'_.''. \
-  /.' _/ |`'=/ " \='`| \_ `.\
- /` .' `\;-,'\___/',-;/` '. '\
-/.-' jgs   `\(-V-)/`       `-.\
-`            "   "            `                                       
+    / \'._   (o_o)   _.'/ \
+                             
 
 <!--
 **pdiez20252/pdiez20252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
